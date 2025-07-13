@@ -350,7 +350,7 @@ body {
 
 .hamburger {
     display: none;
-
+    cursor: pointer;
 }
 
 .hamburgericons img {
@@ -457,6 +457,10 @@ body {
         gap: 15px;
     }
 
+    .play{
+        display: none;
+    }
+
 }
 
 @media (max-width: 2236px) {
@@ -474,5 +478,11 @@ body {
     .cardContainer{
         height: 55vh;
     }
+
+    .play{
+         top: 250px;
+    }
 }
+
+
 
