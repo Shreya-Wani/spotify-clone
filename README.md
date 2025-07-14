@@ -20,23 +20,20 @@ A front-end clone of Spotify built using HTML, CSS, and JavaScript. This project
 ### Screenshots
 
 • **Homepage**  
-![Homepage](assets/screenshots/homepage.png)
+![Homepage](img/homepage.png)
 
 • **Responsive View**  
-![Responsive](assets/screenshots/responsive.png)
+![Responsive](img/responsive.png)
 
-• **Responsive-Hamburger View**  
-![Responsive-Hamburger](assets/screenshots/responsive-hamburger.png)
-
-*(Make sure you've added your screenshots in a folder called `screenshots` inside your project)*
+• **Responsive - Hamburger Menu View**  
+![Responsive-Hamburger](img/responsive-hamburger.png)
 
 ## 📂 Folder Structure
 
 - `index.html` — Main HTML file  
 - `style.css` — Stylesheet  
 - `script.js` — JavaScript logic  
-- `songs/` — Music files  
-- `covers/` — Album art  
+- `songs/` — Music files 
 - `screenshots/` — App previews
 
 ## Note:-
